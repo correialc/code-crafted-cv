@@ -9,8 +9,8 @@ Having my CV in code makes it easy to manage different versions and keep track o
 ### CV Versions
 
 Currently, there are 2 versions available:
-- Data Engineer in English: `data_engineer_en_us.tex`
-- Data Engineer in Portuguese (my native language): `data_engineer_pt_br.tex`
+- Data Engineer in English: [data_engineer_en_us.pdf](https://github.com/correialc/code-crafted-cv/blob/main/data_engineer_en_us.pdf)
+- Data Engineer in Portuguese (my native language): [data_engineer_pt_br.pdf](https://github.com/correialc/code-crafted-cv/blob/main/data_engineer_pt_br.pdf)
 
 ### What comes next...
 
