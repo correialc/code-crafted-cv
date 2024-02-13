@@ -18,4 +18,4 @@ I'm working on a CV for my academic experiences as a university professor.
 
 ### License
 
-This project was built on top of the **Awesome-CV** template, created by Claud D. Park (posquit0.bj@gmail.com) with modifications by Vel (vel@latextemplates.com). Please find the license details in the `*.tex` files.
+This project was built on top of the [Awesome Resume/CV and Cover Letter](https://www.latextemplates.com/template/awesome-resume-cv) template, created by Claud D. Park (posquit0.bj@gmail.com) with modifications by Vel (vel@latextemplates.com). Please find the license details in the `*.tex` files.
