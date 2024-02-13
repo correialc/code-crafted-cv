@@ -20,9 +20,6 @@
 # *.ps
 # *.eps
 
-## Output files
-*.pdf
-
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
 *.bcf
